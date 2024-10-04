@@ -1,10 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                              Automatic stops.mq4 |
-//|                            Copyright © 2012, www.FxAutomated.com |
-//|                                       http://www.FxAutomated.com |
-//+------------------------------------------------------------------+
-#property copyright "Copyright © 2012, www.FxAutomated.com"
-#property link      "http://www.FxAutomated.com"
 
 extern string    ProvidedFreeBy="www.fxautomated.com";
 extern string    AboutAutostop="Automatically sets take profit and stop loss.";
